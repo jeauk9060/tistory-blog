@@ -1,13 +1,11 @@
 <template>
   <div>
-    <MainPage />
+    <ExampleRefReactive />
   </div>
 </template>
 
 <script setup>
-import MainPage from './views/MainPage.vue';
-
-
+import ExampleRefReactive from './components/ExampleRefReactive.vue';
 </script>
 
 <style lang="scss" scoped></style>
