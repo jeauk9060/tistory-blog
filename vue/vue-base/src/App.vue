@@ -1,11 +1,12 @@
 <template>
   <div>
-    <ExampleRefReactive />
+    <ExampleRective />
   </div>
 </template>
 
 <script setup>
-import ExampleRefReactive from './components/refReactive/ExampleRefReactive.vue';
+import ExampleRective from './components/refReactive/ExampleRective.vue';
+
 </script>
 
 <style lang="scss" scoped></style>
